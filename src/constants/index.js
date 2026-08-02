@@ -122,7 +122,7 @@ const techStack = [
     },
     {
         category: "Learning",
-        items: ["React Hooks", "REST APIs", " Web Dev"],
+        items: ["React Hooks", "REST APIs", "Web Dev"],
     },
 ];
 

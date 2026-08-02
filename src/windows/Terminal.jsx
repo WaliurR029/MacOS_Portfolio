@@ -6,6 +6,9 @@ import windowControls from "#components/WindowControls.jsx";
 import WindowControls from "#components/WindowControls.jsx";
 
 const Terminal = () => {
+    const totalCategories = techStack.length;
+    const loadedCategories = totalCategories;
+
     return (
         <>
             <div id = "window-header">
@@ -42,7 +45,7 @@ const Terminal = () => {
 
                 <div className="footnote">
                     <p>
-                        <Check size = {20}/> 5 of 5 loaded successfully (100%)
+                        <Check size = {20}/> {loadedCategories} of {totalCategories} loaded successfully (100%)
                     </p>
 
                     <p className="text-black">
