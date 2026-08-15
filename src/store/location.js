@@ -5,7 +5,7 @@ import {locations} from "#constants";
 const DEFAULT_LOCATION = locations.work
 
 const useLocationStore = create(immer((set) => ({
-    activateLocation: DEFAULT_LOCATION,
+    activeLocation: DEFAULT_LOCATION,
 
 
     setActiveLocation: (location = null) => set((state) => {
