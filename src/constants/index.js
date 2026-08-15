@@ -137,31 +137,17 @@ const techStack = [
 const socials = [
     {
         id: 1,
-        text: "Github",
+        text: "GitHub",
         icon: "/icons/github.svg",
         bg: "#f4656b",
-        link: "https://github.com/JavaScript-Mastery-Pro",
+        link: "https://github.com/WaliurR029",
     },
     {
         id: 2,
-        text: "Platform",
-        icon: "/icons/atom.svg",
-        bg: "#4bcb63",
-        link: "https://jsmastery.com/",
-    },
-    {
-        id: 3,
-        text: "Twitter/X",
-        icon: "/icons/twitter.svg",
-        bg: "#ff866b",
-        link: "https://x.com/jsmasterypro",
-    },
-    {
-        id: 4,
         text: "LinkedIn",
         icon: "/icons/linkedin.svg",
         bg: "#05b6f6",
-        link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+        link: "https://www.linkedin.com/in/waliurr/",
     },
 ];
 
@@ -387,7 +373,7 @@ const ABOUT_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-10 left-5",
-            imageUrl: "/images/adrian.jpg",
+            imageUrl: "/images/waliur2.jpg",
         },
         {
             id: 2,
@@ -396,7 +382,7 @@ const ABOUT_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-28 right-72",
-            imageUrl: "/images/adrian-2.jpg",
+            imageUrl: "/images/waliur3.jpg",
         },
         {
             id: 3,
@@ -405,7 +391,7 @@ const ABOUT_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-52 left-80",
-            imageUrl: "/images/adrian-3.jpeg",
+            imageUrl: "/images/waliur4.jpg",
         },
         {
             id: 4,
@@ -415,12 +401,12 @@ const ABOUT_LOCATION = {
             fileType: "txt",
             position: "top-60 left-5",
             subtitle: "Meet the Developer Behind the Code",
-            image: "/images/adrian.jpg",
+            image: "/images/waliur1.jpg",
             description: [
-                "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
-                "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
-                "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
-                "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
+                "Hey! I’m Waliur 👋, a Software Engineering student who enjoys turning ideas into practical software and exploring how technology can solve real-world problems.",
+                "I work across modern application development, with experience in JavaScript, React, Next.js, Python, Java, and databases—and I’m currently expanding deeper into data science and AI.",
+                "I enjoy building projects that sit at the intersection of software and intelligent systems, from AI-powered scheduling and plant disease detection to desktop applications and interactive digital experiences.",
+                "I care about writing clean, maintainable code, designing interfaces that feel intuitive, and continuously learning the fundamentals that make good software possible."
             ],
         },
     ],
