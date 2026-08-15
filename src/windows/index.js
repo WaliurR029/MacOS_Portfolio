@@ -5,5 +5,6 @@ import Finder from "#windows/Finder.jsx";
 import Txtfile from "#windows/Txtfile.jsx";
 import ImgFile from "#windows/ImgFile.jsx";
 import Contact from "#windows/Contact.jsx";
+import Photos from "#windows/Photos.jsx";
 
-export { Terminal, Safari, Resume, Finder, Txtfile, ImgFile, Contact };
+export { Terminal, Safari, Resume, Finder, Txtfile, ImgFile, Contact, Photos };
